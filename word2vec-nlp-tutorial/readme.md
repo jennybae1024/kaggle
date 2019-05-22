@@ -1,11 +1,11 @@
 # Bag of Words Meets Bag of Popcorns
 NLP 관련 Kaggle Projects 중 하나로, 영화 리뷰를 작성하는 IMDB 웹사이트의 리뷰의 sentiment 를 학습하고 예측하는 과제입니다. Kaggle 에 tutorial 이 제공되어있어 초보자에게 좋은 과제라고 알려져 있습니다. (https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
-** 참고한 자료
+## 참고한 자료
 - Kaggle tutorial
 - 박조은 님의 깃헙 (https://github.com/corazzon)
 
-** 소감
+## 소감
 본 과제는 주어진 언어 corpus 를 어떤 형식의 input 으로 만들어 학습시킬 것인지를 배우는데 좋은 것 같습니다.
 part 1 에서는 BOW (Bag of words)을 사용하여 review 에 사용된 단어의 갯수로 구성된 벡터를 사용하여 학습하며,
 part 2 는 word2vec embedding matrix 를 만들고 reveiw 별 embedding vector average 를 구하여 학습합니다.
