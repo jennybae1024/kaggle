@@ -1,4 +1,4 @@
-* Bag of Words Meets Bag of Popcorns
+# Bag of Words Meets Bag of Popcorns
 NLP 관련 Kaggle Projects 중 하나로, 영화 리뷰를 작성하는 IMDB 웹사이트의 리뷰의 sentiment 를 학습하고 예측하는 과제입니다. Kaggle 에 tutorial 이 제공되어있어 초보자에게 좋은 과제라고 알려져 있습니다. (https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ** 참고한 자료
